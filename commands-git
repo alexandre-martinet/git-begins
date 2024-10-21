@@ -1,0 +1,10 @@
+commande de clonage : git clone (url du repository)
+
+commandes de push: git push [--all | --branches | --mirror | --tags] [--follow-tags] [--atomic] [-n | --dry-run] [--receive-pack=<git-receive-pack>]
+	   [--repo=<dépôt>] [-f | --force] [-d | --delete] [--prune] [-q | --quiet] [-v | --verbose]
+	   [-u | --set-upstream] [-o <chaîne> | --push-option=<chaîne>]
+	   [--[no-]signed|--signed=(true|false|if-asked)]
+	   [--force-with-lease[=<nom-de-réf>[:<attendu>]] [--force-if-includes]]
+	   [--no-verify] [<dépôt> [<spéc-de-réf>…​]]
+
+commandes de pull : git pull [<options>] [<dépôt> [<spécification-de-référence>…​]]
